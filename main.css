@@ -36,6 +36,10 @@ p {
     color: #fff;
 }
 
+#menuBar a {
+    color: #fff;
+}
+
 #menuBar a:hover {
     color: #ffcccc;
 }
