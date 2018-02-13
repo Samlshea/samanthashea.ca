@@ -5,7 +5,9 @@ body {
     font-family: "Helvetica", sans-serif;
     height: 100%;
 }
-
+a {
+    color: #fff;
+}
 p {
     font-family: "Garamond", serif;
 }
